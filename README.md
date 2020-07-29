@@ -1,0 +1,2 @@
+# ctgsegbar
+versão ampliada
